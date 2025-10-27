@@ -1,78 +1,97 @@
-<h1 align="center">👋 Hey, I'm CodeHex083</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CodeHex083/CodeHex083/main/assets/banner.png" 
+       alt="CodeHex083 Banner" width="100%" />
+</p>
+
+---
+
+<h1 align="center">👋 Hi, I’m <span style="color:#00ADEF;">CodeHex083</span></h1>
 
 <p align="center">
-  <b>Blockchain Engineer · Cardano Developer · Full-Stack Builder</b><br/>
-  <i>Building decentralized systems on Cardano with Plutus, Aiken, and strong full-stack foundations.</i>
+  <em>Blockchain Engineer | Cardano & Sui Developer | Fullstack Builder</em>
 </p>
 
 ---
 
-### 🧠 About Me  
-💡 I’m a blockchain developer specializing in the **Cardano ecosystem**, focusing on **smart contracts, infrastructure, and dApp integration**.  
-I bridge on-chain logic with full-stack applications — from **Plutus/Aiken contracts** to **React & Node.js** frontends connected to live Cardano nodes.
+## 🧠 About Me
+
+🚀 Passionate about building **decentralized systems** that merge scalability, security, and simplicity.  
+💎 Specialized in **Cardano smart contracts (Plutus & Aiken)** and **Sui Move-based development**.  
+💡 Experienced across **frontend, backend, and fullstack blockchain integrations**.  
+🌍 I love turning complex on-chain logic into intuitive, elegant dApps.
 
 ---
 
-### ⚙️ My Tech Stack
+## 🧩 Skills
 
-#### 🧩 Blockchain & Smart Contracts
-<p align="left">
-  <img src="https://img.shields.io/badge/Cardano-%230E4B80.svg?style=for-the-badge&logo=cardano&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plutus-%2342B983.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Aiken-%23E36B2C.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/cardano--cli-%23181717.svg?style=for-the-badge"/>
-</p>
+### 🪙 Blockchain & Smart Contracts
+- **Cardano** → Plutus / Aiken / Cardano CLI / Node Operations  
+- **Sui** → Move / Sui CLI / Devnet Integration  
+- **Ethereum** → Solidity / Hardhat / Web3.js  
+- **XRPL / Solana (basic)** → SDK & transaction scripting
 
-#### 💻 Full-Stack Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### 💻 Fullstack & Infrastructure
+- **Frontend:** React / Next.js / TypeScript / Tailwind  
+- **Backend:** Node.js / Express / FastAPI  
+- **Databases:** PostgreSQL / MongoDB / Supabase  
+- **Tools:** Docker / GitHub Actions / Vite / CI/CD  
 
-#### 🛠 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+---
+
+## 🧬 My Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,typescript,react,nextjs,nodejs,python,solidity,docker,git,githubactions,linux&theme=dark" />
 </p>
 
 ---
 
-### 🔭 Current Focus  
-- Building **secure Cardano smart contracts** with Aiken  
-- Automating **transaction flows** via `cardano-cli`  
-- Deploying **dApps** that connect React frontends to on-chain logic  
-- Exploring **AI + blockchain integration**
+## 🛠️ Featured Projects
+
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🪙 **Cardano NFT Vending Machine** | Automated NFT minting system with Cardano CLI & Plutus scripts. | Aiken · Node.js · Cardano CLI |
+| ⚡ **PredictChain** | On-chain AI-powered prediction market. | Aiken · React · Express |
+| 🔗 **SuiDex** | Experimental DEX prototype on Sui Devnet. | Move · Sui CLI · React |
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Stats & Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CodeHex083&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHex083&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeHex083&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHex083&theme=react&hide_border=true&background=0D1117" height="160" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://github.com/CodeHex083/CodeHex083/blob/output/github-contribution-grid-snake.svg"
+       alt="Cardano × Sui Snake Animation"
+       width="90%"
+       style="border-radius:16px;filter:drop-shadow(0 0 12px #00ADEF);" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://github.com/CodeHex083">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-00ADEF?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact  
-When I’m not working on smart contracts, I love experimenting with **AI agents that interact with the Cardano blockchain** — merging two of my favorite worlds: **intelligence + decentralization.**
+<p align="center">
+  <i>“Building the future of decentralized systems — one block at a time.”</i>
+</p>
