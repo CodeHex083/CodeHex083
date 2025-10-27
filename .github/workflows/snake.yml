@@ -1,0 +1,56 @@
+name: "🌀 Generate Glowing Snake Animation"
+
+# Run on a schedule and manually
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write    # allow workflow to push files
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate Glowing Snake (Platane/snk)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: CodeHex083
+          outputs: dist/github-contribution-grid-snake.svg
+          snake_color: "#00ADEF"    # head/glow
+          color_snake: "#00BFFF"
+          color_dot: "#00AEEF"
+          color_head: "#00FFFF"
+          color_tail: "#0077FF"
+          background: "transparent" # or use a gradient like "#000428,#004e92"
+
+      - name: Prepare output branch
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B output
+
+      - name: Copy generated files to repo root
+        run: |
+          mkdir -p .
+          cp -f dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add -A
+          git commit -m "chore: update snake animation" || echo "no changes to commit"
+
+      - name: Push to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push --force origin output
