@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeHex083&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeHex083&theme=react&hide_border=true&background=0D1117" height="160" />
+  <img src="https://streak-stats.demolab.com?user=CodeHex083&theme=react&hide_border=true&background=0D1117" height="160" />
 </p>
 
 ---
@@ -72,22 +72,6 @@
        alt="Cardano × Sui Snake Animation"
        width="90%"
        style="border-radius:16px;filter:drop-shadow(0 0 12px #00ADEF);" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/CodeHex083">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-00ADEF?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
