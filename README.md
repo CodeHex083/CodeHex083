@@ -56,12 +56,12 @@
 
 ---
 
-## 🧠 Stats & Activity
+//## 🧠 Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeHex083&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://streak-stats.demolab.com?user=CodeHex083&theme=react&hide_border=true&background=0D1117" height="160" />
-</p>
+//<p align="center">
+  //<img src="https://github-readme-stats.vercel.app/api?username=CodeHex083&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
+  //<img src="https://streak-stats.demolab.com?user=CodeHex083&theme=react&hide_border=true&background=0D1117" height="160" />
+//</p>
 
 ---
 
