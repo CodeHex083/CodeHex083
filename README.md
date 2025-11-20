@@ -15,7 +15,7 @@ As an engineer specializing in both blockchain technology and artificial intelli
 ## Expertise
 
 - **Blockchain Technologies:**  
-  Solidity, Rust, TypeScript, Ethereum, Solana, Cardano, web3.js, ethers.js
+  Solidity, Rust, Move, TypeScript, Ethereum, Solana, Cardano, Sui, web3.js, ethers.js
 - **Artificial Intelligence & Data Science:**  
   Python, PyTorch, TensorFlow, on-chain ML, autonomous AI agent frameworks
 - **Full Stack Development:**  
