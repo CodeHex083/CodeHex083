@@ -1,72 +1,37 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodeHex083/CodeHex083/main/assets/banner.png" 
-       alt="CodeHex083 Banner" width="100%" />
-</p>
+***
 
----
+# 👋 Welcome to My GitHub
 
-<h1 align="center">👋 Hi, I’m <span style="color:#00ADEF;">CodeHex083</span></h1>
+**Blockchain & AI Engineer | Innovating Decentralized Intelligence**
 
-<p align="center">
-  <em>Blockchain Engineer | Cardano & Solana Developer | Fullstack Builder</em>
-</p>
+***
 
----
+## About Me
 
-## 🧠 About Me
+As an engineer specializing in both blockchain technology and artificial intelligence, I develop secure, scalable, and intelligent solutions for the next generation of decentralized applications. My background encompasses smart contract development, on-chain data analysis, autonomous agents, and cross-domain AI integrations. I am dedicated to advancing the synergy between AI and Web3 through robust, open-source innovation.
 
-🚀 Passionate about building **decentralized systems** that combine scalability, performance, and reliability.  
-💎 Specialized in **Cardano smart contracts (Plutus & Aiken)** and **Solana development (Rust & Anchor)**.  
-💡 Experienced across **frontend, backend, and fullstack blockchain integrations**.  
-🌍 I love transforming complex on-chain logic into intuitive, user-focused dApps.
+***
 
----
+## Expertise
 
-## 🧩 Skills
+- **Blockchain Technologies:**  
+  Solidity, Rust, TypeScript, Ethereum, Solana, Cardano, web3.js, ethers.js
+- **Artificial Intelligence & Data Science:**  
+  Python, PyTorch, TensorFlow, on-chain ML, autonomous AI agent frameworks
+- **Full Stack Development:**  
+  React, Next.js, Tailwind CSS, Node.js, FastAPI, PostgreSQL, Redis
+- **DevOps & Infrastructure:**  
+  Docker, GitHub Actions, CI/CD, cloud-native architectures
 
-### 🪙 Blockchain & Smart Contracts
-- **Cardano** → Plutus / Aiken / Cardano CLI / Node Operations  
-- **Solana** → Rust / Anchor / Solana CLI / Devnet & Mainnet Deployment  
-- **Ethereum** → Solidity / Hardhat / Web3.js  
-- **XRPL / Sui (basic)** → SDK & transaction scripting
+***
 
-### 💻 Fullstack & Infrastructure
-- **Frontend:** React / Next.js / TypeScript / Tailwind  
-- **Backend:** Node.js / Express / FastAPI  
-- **Databases:** PostgreSQL / MongoDB / Supabase  
-- **Tools:** Docker / GitHub Actions / Vite / CI/CD  
+## Featured Projects
 
----
+- Autonomous trading agents for cryptocurrencies and DeFi
+- AI-powered NFT and token launch platforms
+- Advanced security tools, including ML-driven wallet protection and anti-phishing solutions
+- Enterprise-scale decentralized applications leveraging AI
 
-## 🧬 My Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,typescript,react,nextjs,nodejs,python,solidity,docker,git,githubactions,linux&theme=dark" />
-</p>
+***
 
----
-
-## 🛠️ Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🪙 **Cardano NFT Vending Machine** | Automated NFT minting system with Cardano CLI & Plutus scripts. | Aiken · Node.js · Cardano CLI |
-| ⚡ **PredictChain** | On-chain AI-powered prediction market. | Aiken · React · Express |
-| 🔗 **SolDex** | Experimental DEX prototype on Solana Devnet using Anchor framework. | Rust · Anchor · React |
-
----
-
-## 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://github.com/CodeHex083/CodeHex083/blob/output/github-contribution-grid-snake.svg"
-       alt="Cardano × Solana Snake Animation"
-       width="90%"
-       style="border-radius:16px;filter:drop-shadow(0 0 12px #00ADEF);" />
-</p>
-
----
-
-<p align="center">
-  <i>“Building the future of decentralized systems — one block at a time.”</i>
-</p>
+**Let’s connect and build innovative solutions for the future of Web3 and AI!**
