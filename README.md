@@ -2,13 +2,13 @@
 
 # 👋 Welcome to My GitHub
 
-**Blockchain & AI Engineer | Innovating Decentralized Intelligence**
+**Fullstack, Web3 & AI Engineer | Innovating Decentralized Intelligence**
 
 ***
 
 ## About Me
 
-As an engineer specializing in both blockchain technology and artificial intelligence, I develop secure, scalable, and intelligent solutions for the next generation of decentralized applications. My background encompasses smart contract development, on-chain data analysis, autonomous agents, and cross-domain AI integrations. I am dedicated to advancing the synergy between AI and Web3 through robust, open-source innovation.
+As a Full Stack, AI and Web3 Engineer, I design and build secure, scalable and intelligent solutions for the next generation of digital applications. My expertise spans end-to-end development, smart contract engineering, on-chain data analysis, autonomous agents and cross-domain AI integrations. I am passionate about advancing the synergy between AI and Web3 through robust, innovative, and open-source technologies.
 
 ***
 
